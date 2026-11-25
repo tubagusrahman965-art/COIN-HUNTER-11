@@ -1,4 +1,4 @@
-## PROJECT AKHIR PENGEBALAN PEMOGRAMAN ##
+## PROJECT AKHIR PENGENALAN PEMOGRAMAN ##
    ## COIN HUNTER ##
 
 Game labirin berbasis terminal menggunakan C++ dan library ncurses.
